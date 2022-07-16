@@ -1,8 +1,8 @@
 # pop
 
 Modern Todo app with Vue 3 - (composition api)
-![Alt text](res\app.jpeg?raw=true "Title")
-![Alt text](res\text.jpeg?raw=true "Title")
+![Alt text](res\app.jpeg)
+![Alt text](res\text.jpeg)
 
 
 ## Recommended IDE Setup
