@@ -1,6 +1,9 @@
 # pop
 
-This template should help get you started developing with Vue 3 in Vite.
+Modern Todo app with Vue 3 - (composition api)
+![Alt text](res\app.jpeg?raw=true "Title")
+![Alt text](res\text.jpeg?raw=true "Title")
+
 
 ## Recommended IDE Setup
 
