@@ -1,9 +1,9 @@
 # pop
 
 Modern Todo app with Vue 3 - (composition api)
-![Alt text](res\app.jpeg)
-![Alt text](res\text.jpeg)
 
+![app](https://user-images.githubusercontent.com/36410350/179357018-2f89fef2-3670-4f56-80a8-2669b4cd2bb1.jpeg)
+![text](https://user-images.githubusercontent.com/36410350/179357024-c3988321-7a8a-4312-bbe9-73dd3a949b71.jpeg)
 
 ## Recommended IDE Setup
 
